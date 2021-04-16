@@ -98,3 +98,9 @@ body{
     background-color: azure;
   
 }
+input[type="submit"]{
+    background-color: gray;
+    background-position: center;
+    height: 30px;
+    width:100px;
+}
