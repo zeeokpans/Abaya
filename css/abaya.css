@@ -104,3 +104,24 @@ input[type="submit"]{
     height: 30px;
     width:100px;
 }
+.productimg{
+    margin:20px;
+}
+.infocont{
+    display: grid;
+    grid-template-columns: 500px auto;
+    grid-template-rows: auto auto;
+}
+.productinfo{
+   margin-right: 600px;
+   margin-top: 20px;
+}
+.maincont{
+    display: grid;
+    grid-template-rows: auto auto;
+    row-gap: 10px;
+}
+.seemore{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
